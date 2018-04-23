@@ -6,7 +6,7 @@ function Invoke-CheckEmailPhish{
     Due to the service limitations, only 1000 emails can be checked in a day. I know you will figure out a way past that .. :P
 
     Invoke-CheckEmailPhish Function: Invoke-CheckEmailPhish
-    Author: Shantanu Khandelwal (@dafthack)
+    Author: Shantanu Khandelwal (@shantanukhande)
     License: BSD 3-Clause
     Required Dependencies: None
     Optional Dependencies: None
